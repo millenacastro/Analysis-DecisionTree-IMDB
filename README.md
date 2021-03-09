@@ -2,7 +2,7 @@
 
 Previsão de pontuações IMDB Scores
 
-O objetivo do projeto é prever as possíveis nota IMDb de um filme antes mesmo dele ser lançado, baseado nos dados históricos será realizado análises das variáveis para saber quais filmes obtiveram êxito ou fracassaram.
+O objetivo do projeto é prever as possíveis nota IMDb de um filme antes mesmo dele ser lançado, baseado nos dados históricos será realizado análises das variáveis para saber quais filmes obtiveram êxito ou não.
 
 Bibliotecas
 - Para criar criar análises reprodutíveis e de alta qualidade, o código foi feita na linguagem R, ferramenta de análise de dados. 
