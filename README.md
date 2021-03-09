@@ -11,6 +11,7 @@ Bibliotecas
 Descrição do dataset
 - A base de dados foi coletada a partir do Kaggle, que pode ser acessado através do link: https://www.kaggle.com/tmdb/tmdb-movie-metadata. 
 - O dataset contém informações relacionadas a base de dados de 5043 filmes, lançados nos últimos 100 anos em 66 países.
+
 Estrutura do dataset
 - O dataset possui 28 colunas para 5043 linhas que representam os filmes
 
