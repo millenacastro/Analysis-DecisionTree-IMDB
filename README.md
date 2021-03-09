@@ -2,11 +2,11 @@
 
 Previsão de pontuações IMDB Scores
 
-O objetivo do projeto é prever as possíveis nota IMDb de um filme antes mesmo dele ser lançado, baseado nos dados históricos será realizado análises das variáveis para saber quais filmes obtiveram êxito ou fracassaram na indústria cinematográfica.
+O objetivo do projeto é prever as possíveis nota IMDb de um filme antes mesmo dele ser lançado, baseado nos dados históricos será realizado análises das variáveis para saber quais filmes obtiveram êxito ou fracassaram.
 
 Bibliotecas
 - Para criar criar análises reprodutíveis e de alta qualidade, o código foi feita na linguagem R, ferramenta de análise de dados. 
-- Os seguintes pacotes abaixo serão utilizados para manipulação dos dados, visualização dos dados e para gerar a árvore de decisão.
+- Documentação: https://www.r-project.org/other-docs.html
 
 Descrição do dataset
 - A base de dados foi coletada a partir do Kaggle, que pode ser acessado através do link: https://www.kaggle.com/tmdb/tmdb-movie-metadata. 
@@ -20,7 +20,7 @@ Análises
 - Quais são os países que produziram mais filmes?
 - Quais são os atores mais bem avaliados pelo IMDB Scores?
 - Quais são os diretores mais bem avaliados pelo IMDB Scores?
-- Top 20 filmes mais lucrativos da indústria cinematográfica
+- Top 20 filmes mais lucrativos
 
 Modelo para prever as pontuações do IMDB
 - A tarefa de Machine Learning a ser executada será a árvore de decisão, algoritmo de aprendizagem de máquina supervisionado, que se baseia na ideia de divisão dos dados em grupos homogêneos, no qual um conjunto de variáveis são utilizadas para predizer o valor da variável target.
